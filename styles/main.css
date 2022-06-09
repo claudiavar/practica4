@@ -378,7 +378,7 @@ nav {
 
 .blog input {
     height: 50px;
-    width: 179px;
+    width: 169px;
     border-radius: 8px 0px 0px 8px;
     border-color: #c4c4c481;
 }
@@ -395,7 +395,7 @@ select,
 .btnPurple {
     border-radius: 0px 8px 8px 0px;
     height: 55px;
-    width: 120px;
+    width: 110px;
     margin-left: -5px;
     background-color: #6D0AD3;
     color: white;
