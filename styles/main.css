@@ -366,8 +366,12 @@ nav {
 .blog_img2 {
     margin-top: 0.5rem;
 }
+
 .box1 img{
     width: 306px;
+}
+.box8 form{
+    width: 310px;
 }
 
 .blog h3 {
