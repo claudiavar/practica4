@@ -360,11 +360,14 @@ nav {
 }
 
 .blog_img1 {
-    height: 207px;
+    height: 207px;    
 }
 
 .blog_img2 {
     margin-top: 0.5rem;
+}
+.box1 img{
+    width: 306px;
 }
 
 .blog h3 {
