@@ -464,7 +464,9 @@ footer {
     margin-top: 35px;
     height: 200px;
 }
-
+.ft_figure{
+    width: 100px;
+}
 footer figure img {
     width: 56px;
 }
