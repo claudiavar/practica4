@@ -508,9 +508,6 @@ footer figure img {
 }
 
 @media screen and (max-width:600px) {
-    html{
-        max-width: 100%;
-    }
     body {
         max-width: 100%;
     }
